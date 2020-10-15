@@ -1,0 +1,185 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natura.com" resolutions="1x" timestamp="1509807553663">
+  <folder name="css">
+    <file name="site_global.css" crc="93750656"/>
+    <file name="master_a-mastery.css" crc="4002611463" ref="index"/>
+    <file name="nomq_preview_master_a-mastery.css" crc="396883221" ref="index"/>
+    <file name="index.css" crc="148870639" ref="index"/>
+    <file name="nomq_index.css" crc="257475748" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="smoothscroll.js" crc="4288576285" seo="true" mt="1490169088000"/>
+    <file name="buxom.min.css" crc="4213542156" seo="true" mt="1490169088000"/>
+    <file name="buxom.min.js" crc="4070340493" seo="true" mt="1490169088000"/>
+    <file name="jquery.counterup.min.js" crc="3831897152" seo="true" mt="1490169088000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u12822.php" crc="4234291094" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="04.png" crc="128698584" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s1.jpg" crc="4015915628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="s2.jpg" crc="313298146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s3.jpg" crc="4057450614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s4.jpg" crc="4233160036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="04-u6636-fr.png" crc="4093068098" ref="index"/>
+    <file name="price1.jpg" crc="507601670" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footer1.jpg" crc="4052301186" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smartphone-call.svg" crc="4120671738" ref="index"/>
+    <file name="smartphone-call_poster_u15939.png" crc="4013628914" ref="index"/>
+    <file name="mail.svg" crc="320732496" ref="index"/>
+    <file name="mail_poster_u15947.png" crc="10631393" ref="index"/>
+    <file name="placeholder.svg" crc="4217053562" ref="index"/>
+    <file name="placeholder_poster_u15955.png" crc="3879564461" ref="index"/>
+    <file name="instagram-logo.svg" crc="4021494475" ref="index"/>
+    <file name="instagram-logo_poster_u15963.png" crc="403712727" ref="index"/>
+    <file name="facebook-logo.svg" crc="15706473" ref="index"/>
+    <file name="facebook-logo_poster_u15971.png" crc="52253262" ref="index"/>
+    <file name="twitter-logo-silhouette.svg" crc="314143322" ref="index"/>
+    <file name="twitter-logo-silhouette_poster_u15979.png" crc="211148680" ref="index"/>
+    <file name="responsive-design-symbol.svg" crc="309895927" ref="index"/>
+    <file name="responsive-design-symbol_poster_u19988.png" crc="94292223" ref="index"/>
+    <file name="support.svg" crc="3939708632" ref="index"/>
+    <file name="support_poster_u19996.png" crc="4289011201" ref="index"/>
+    <file name="settings.svg" crc="487955699" ref="index"/>
+    <file name="settings_poster_u20004.png" crc="323430754" ref="index"/>
+    <file name="paint-palette.svg" crc="457984105" ref="index"/>
+    <file name="paint-palette_poster_u20012.png" crc="145608998" ref="index"/>
+    <file name="html.svg" crc="491126645" ref="index"/>
+    <file name="html_poster_u20020.png" crc="3854220807" ref="index"/>
+    <file name="profits.svg" crc="7358043" ref="index"/>
+    <file name="profits_poster_u20028.png" crc="133350277" ref="index"/>
+    <file name="giftbox.svg" crc="121580020" ref="index"/>
+    <file name="giftbox_poster_u20036.png" crc="107826711" ref="index"/>
+    <file name="smartphone.svg" crc="479852471" ref="index"/>
+    <file name="smartphone_poster_u20044.png" crc="455146855" ref="index"/>
+    <file name="check-mark-white-on-black-circular-background.svg" crc="277654130" ref="index"/>
+    <file name="check-mark-white-on-black-circular-background_poster_u19844.png" crc="155663492" ref="index"/>
+    <file name="plus.png" crc="4220552367" ref="index">
+      <caption webpage="index" alt="Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."/>
+      <caption webpage="index" alt="Donec rutrum congue leo eget malesuada."/>
+      <caption webpage="index" alt="Pellentesque in ipsum id orci porta dapibus."/>
+      <caption webpage="index" alt="Donec sollicitudin molestie malesuada."/>
+      <caption webpage="index" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit."/>
+      <caption webpage="index" alt="Donec sollicitudin molestie malesuada."/>
+      <caption webpage="index" alt="Pellentesque in ipsum id orci porta dapibus."/>
+      <caption webpage="index" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit."/>
+      <caption webpage="index" alt="Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem?"/>
+      <caption webpage="index" alt="Donec rutrum congue leo eget malesuada."/>
+      <caption webpage="index" alt="Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."/>
+      <caption webpage="index" alt="Donec rutrum congue leo eget malesuada."/>
+      <caption webpage="index" alt="Pellentesque in ipsum id orci porta dapibus."/>
+      <caption webpage="index" alt="Donec sollicitudin molestie malesuada."/>
+      <caption webpage="index" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit."/>
+      <caption webpage="index" alt="Donec sollicitudin molestie malesuada."/>
+      <caption webpage="index" alt="Pellentesque in ipsum id orci porta dapibus."/>
+      <caption webpage="index" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit."/>
+      <caption webpage="index" alt="Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem?"/>
+      <caption webpage="index" alt="Donec rutrum congue leo eget malesuada."/>
+    </file>
+    <file name="remove.png" crc="303842456" ref="index">
+      <caption webpage="index" alt="Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."/>
+      <caption webpage="index" alt="Donec rutrum congue leo eget malesuada."/>
+      <caption webpage="index" alt="Pellentesque in ipsum id orci porta dapibus."/>
+      <caption webpage="index" alt="Donec sollicitudin molestie malesuada."/>
+      <caption webpage="index" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit."/>
+      <caption webpage="index" alt="Donec sollicitudin molestie malesuada."/>
+      <caption webpage="index" alt="Pellentesque in ipsum id orci porta dapibus."/>
+      <caption webpage="index" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit."/>
+      <caption webpage="index" alt="Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem?"/>
+      <caption webpage="index" alt="Donec rutrum congue leo eget malesuada."/>
+      <caption webpage="index" alt="Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."/>
+      <caption webpage="index" alt="Donec rutrum congue leo eget malesuada."/>
+      <caption webpage="index" alt="Pellentesque in ipsum id orci porta dapibus."/>
+      <caption webpage="index" alt="Donec sollicitudin molestie malesuada."/>
+      <caption webpage="index" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit."/>
+      <caption webpage="index" alt="Donec sollicitudin molestie malesuada."/>
+      <caption webpage="index" alt="Pellentesque in ipsum id orci porta dapibus."/>
+      <caption webpage="index" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit."/>
+      <caption webpage="index" alt="Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem?"/>
+      <caption webpage="index" alt="Donec rutrum congue leo eget malesuada."/>
+    </file>
+    <file name="batman.svg" crc="3772538611" ref="index"/>
+    <file name="batman_poster_u20059.png" crc="463250588" ref="index"/>
+    <file name="gowalla-logo.svg" crc="370826470" ref="index"/>
+    <file name="gowalla-logo_poster_u20067.png" crc="4076666306" ref="index"/>
+    <file name="hi5-logo.svg" crc="3905559246" ref="index"/>
+    <file name="hi5-logo_poster_u20075.png" crc="4226001372" ref="index"/>
+    <file name="icon.svg" crc="3906369738" ref="index"/>
+    <file name="icon_poster_u20083.png" crc="4183823678" ref="index"/>
+    <file name="steam-logo.svg" crc="4233696871" ref="index"/>
+    <file name="steam-logo_poster_u20091.png" crc="242246609" ref="index"/>
+    <file name="squidoo-logo.svg" crc="73014683" ref="index"/>
+    <file name="squidoo-logo_poster_u20099.png" crc="218618314" ref="index"/>
+    <file name="tripadvisor-logotype.svg" crc="4247831485" ref="index"/>
+    <file name="tripadvisor-logotype_poster_u20107.png" crc="112726934" ref="index"/>
+    <file name="vimeo-logo.svg" crc="3984593469" ref="index"/>
+    <file name="vimeo-logo_poster_u20115.png" crc="4292483208" ref="index"/>
+    <file name="wordpress-logo.svg" crc="4096791515" ref="index"/>
+    <file name="wordpress-logo_poster_u20123.png" crc="405585179" ref="index"/>
+    <file name="price1-u14322-fr.jpg" crc="3827977205" ref="index"/>
+    <file name="close.svg" crc="4211750754" ref="index"/>
+    <file name="close_poster_u7162.png" crc="209832264" ref="index"/>
+    <file name="menu.svg" crc="387706797" ref="index"/>
+    <file name="menu_poster_u7304.png" crc="3915531268" ref="index"/>
+    <file name="instagram-logo-bl.svg" crc="3973378452" ref="index"/>
+    <file name="instagram-logo-bl_poster_u16026.png" crc="3888102514" ref="index"/>
+    <file name="facebook-letter-logo-bl.svg" crc="4063079061" ref="index"/>
+    <file name="facebook-letter-logo-bl_poster_u16034.png" crc="508407847" ref="index"/>
+    <file name="twitter-logo-silhouette-bl.svg" crc="4073457038" ref="index"/>
+    <file name="twitter-logo-silhouette-bl_poster_u16042.png" crc="4015665098" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3987146552" seo="true" mt="1509807499461" redirect="true"/>
+</manifest>
